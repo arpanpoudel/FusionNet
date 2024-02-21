@@ -1,0 +1,8 @@
+dataset/
+weights/
+workdir/
+workdir_combined/
+workdir_perceptual/
+workdir_perceptual_0.95/
+data.ipynb
+test.ipynb
